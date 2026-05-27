@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/MohitVermaCoder">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=70a5fd&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%2B+Spring+Boot;System+Design+Enthusiast;DevOps+Learning;Code+%2B+Coffee+%3D+%3C3" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=70a5fd&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%2B+Spring+Boot;System+Design+Enthusiast" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -19,9 +19,11 @@
 
 <!-- SOCIAL LINKS -->
 <p>
-<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://youtube.com/channel/UCIYwx90CqfKUQmFBUrFmIIg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://x.com/Mohit_Verma7"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://medium.com/@techniquestudent"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="mailto:verma.mohit093@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
@@ -59,8 +61,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohitVermaCoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitVermaCoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohitVermaCoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=fff" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitVermaCoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=fff" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -133,10 +135,10 @@
 
 <div align="center">
 
-<a href="https://github.com/MohitVermaCoder/QRCodeGeneratorDemo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=QRCodeGeneratorDemo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff" alt="QRCodeGeneratorDemo"/></a>
-<a href="https://github.com/MohitVermaCoder/Springboot_Crud_H2_DB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=Springboot_Crud_H2_DB&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff" alt="Springboot_Crud_H2_DB"/></a>
-<a href="https://github.com/MohitVermaCoder/SpringBootProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=SpringBootProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff" alt="SpringBootProject"/></a>
-<a href="https://github.com/MohitVermaCoder/coding-questions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=coding-questions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff" alt="coding-questions"/></a>
+<a href="https://github.com/MohitVermaCoder/QRCodeGeneratorDemo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=QRCodeGeneratorDemo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd" alt="QRCodeGeneratorDemo"/></a>
+<a href="https://github.com/MohitVermaCoder/Springboot_Crud_H2_DB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=Springboot_Crud_H2_DB&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd" alt="Springboot_Crud_H2_DB"/></a>
+<a href="https://github.com/MohitVermaCoder/SpringBootProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=SpringBootProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd" alt="SpringBootProject"/></a>
+<a href="https://github.com/MohitVermaCoder/coding-questions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=coding-questions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd" alt="coding-questions"/></a>
 
 </div>
 
@@ -164,10 +166,11 @@
 **I'm always interested in collaborating on exciting projects!**
 
 <p>
-<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/MohitVermaCoder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://youtube.com/channel/UCIYwx90CqfKUQmFBUrFmIIg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://x.com/Mohit_Verma7"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://medium.com/@techniquestudent"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="mailto:verma.mohit093@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 📫 **Reach out** — I'd love to hear from you!
