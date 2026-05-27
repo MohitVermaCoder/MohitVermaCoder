@@ -3,22 +3,25 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=MohitVermaCoder&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Associate%20Staff%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices%20%7C%20System%20Design&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=MohitVermaCoder&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-
+<a href="https://github.com/MohitVermaCoder">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=70a5fd&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%2B+Spring+Boot;System+Design+Enthusiast;DevOps+Learning;Code+%2B+Coffee+%3D+%3C3" alt="Typing SVG"/>
+</a>
 
 <!-- PROFILE BADGES -->
 <p>
   <img src="https://img.shields.io/badge/Focus-Associate-70a5fd?style=for-the-badge" alt="focus"/>
   <img src="https://img.shields.io/badge/6+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
-  
   <img src="https://komarev.com/ghpvc/?username=MohitVermaCoder&style=for-the-badge&color=70a5fd" alt="views"/>
 </p>
 
 <!-- SOCIAL LINKS -->
 <p>
-<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://youtube.com/channel/UCIYwx90CqfKUQmFBUrFmIIg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a> <a href="https://x.com/Mohit_Verma7"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> <a href="medium.com/@techniquestudent"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a> <a href="mailto:verma.mohit093@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
@@ -29,40 +32,35 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitVermaCoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
 
-
-
-💼 **9+ in backend development**
+💼 **9+ years in backend development**
 
 🔭 Currently working on **[QRCodeGeneratorDemo](https://github.com/MohitVermaCoder/QRCodeGeneratorDemo)**
 
-🌱 Currently learning **System design, devOps **
+🌱 Currently learning **System design, DevOps**
 
+🎯 **Passionate about** scalable architecture, microservices, and clean code
 
-
-
-📦 **11** repositories | 👥 **7** followers
+📦 **Dynamic Stats:**
+  - Repositories: [![GitHub repos](https://img.shields.io/github/repos/MohitVermaCoder?style=flat&label=repos)](https://github.com/MohitVermaCoder?tab=repositories)
+  - Followers: [![GitHub followers](https://img.shields.io/github/followers/MohitVermaCoder?style=flat&label=followers)](https://github.com/MohitVermaCoder?tab=followers)
 
 <br clear="right"/>
-
 
 ### 🤝 Open For
 
 <p>
-
 <img src="https://img.shields.io/badge/🤝_Collaboration-Welcome-blue?style=for-the-badge" alt="Collaboration"/>
 <img src="https://img.shields.io/badge/💰_Freelance-Available-orange?style=for-the-badge" alt="Freelance"/>
-
 <img src="https://img.shields.io/badge/🧑‍🏫_Mentoring-Available-green?style=for-the-badge" alt="Mentoring"/>
 </p>
-
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohitVermaCoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitVermaCoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohitVermaCoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitVermaCoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -129,123 +127,31 @@
 </tr>
 </table>
 
-
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured & Pinned Projects
 
 <div align="center">
 
-<a href="https://github.com/MohitVermaCoder/QRCodeGeneratorDemo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=QRCodeGeneratorDemo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="QRCodeGeneratorDemo"/></a>
-<a href="https://github.com/MohitVermaCoder/Springboot_Crud_H2_DB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=Springboot_Crud_H2_DB&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Springboot_Crud_H2_DB"/></a>
-<a href="https://github.com/MohitVermaCoder/Youtube-Tutorial"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=Youtube-Tutorial&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Youtube-Tutorial"/></a>
-<a href="https://github.com/MohitVermaCoder/coding-questions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=coding-questions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="coding-questions"/></a>
-<a href="https://github.com/MohitVermaCoder/SpringBootProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=SpringBootProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="SpringBootProject"/></a>
-<a href="https://github.com/MohitVermaCoder/myDemo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=myDemo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="myDemo"/></a>
-
-</div>
-
-### 📊 Top Repositories
-
-<table>
-<thead>
-<tr>
-<th>🚀 Project</th>
-<th>📝 Description</th>
-<th>⭐ Stars</th>
-<th>🍴 Forks</th>
-<th>💻 Language</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://github.com/MohitVermaCoder/QRCodeGeneratorDemo"><b>QRCodeGeneratorDemo</b></a></td>
-<td>Demo project for how to generate QR  using java and springbo...</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/MohitVermaCoder/Springboot_Crud_H2_DB"><b>Springboot_Crud_H2_DB</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/MohitVermaCoder/Youtube-Tutorial"><b>Youtube-Tutorial</b></a></td>
-<td>Here you can find the pdf of youtube videos.</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/MohitVermaCoder/coding-questions"><b>coding-questions</b></a></td>
-<td>You can find the codes of my youtube coding videos.</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/MohitVermaCoder/SpringBootProject"><b>SpringBootProject</b></a></td>
-<td>This is basic springboot project which i have used in my you...</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/MohitVermaCoder/myDemo"><b>myDemo</b></a></td>
-<td>This is for angular tutorial.</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
-</tr>
-</tbody>
-</table>
-
-<p align="center">
-  <i>💡 Total of <b>11</b> repositories — <b>2</b> forks</i>
-</p>
-
-
----
-
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" /> Achievements
-
-<div align="center">
-
-| 🏆 Achievement | 📊 Status |
-|:-------------:|:---------:|
-| 🎂 5+ Years on GitHub | ✅ Unlocked |
-| 💻 Java Expert | ✅ Unlocked |
+<a href="https://github.com/MohitVermaCoder/QRCodeGeneratorDemo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=QRCodeGeneratorDemo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff" alt="QRCodeGeneratorDemo"/></a>
+<a href="https://github.com/MohitVermaCoder/Springboot_Crud_H2_DB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=Springboot_Crud_H2_DB&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff" alt="Springboot_Crud_H2_DB"/></a>
+<a href="https://github.com/MohitVermaCoder/SpringBootProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=SpringBootProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff" alt="SpringBootProject"/></a>
+<a href="https://github.com/MohitVermaCoder/coding-questions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=coding-questions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff" alt="coding-questions"/></a>
 
 </div>
 
 ---
-
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Profile Summary
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center">
-<img src="https://img.shields.io/badge/🍴_Total_Forks-2-blue?style=for-the-badge" alt="Forks"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-11-green?style=for-the-badge" alt="Repos"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/👥_Followers-7-purple?style=for-the-badge" alt="Followers"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📅_Years_Active-6+-orange?style=for-the-badge" alt="Years"/>
-</td>
-</tr>
-</table>
+| Metric | Badge |
+|:------:|:-----:|
+| 📦 Total Repositories | [![GitHub repos](https://img.shields.io/github/repos/MohitVermaCoder?style=flat-square&color=70a5fd)](https://github.com/MohitVermaCoder?tab=repositories) |
+| 🍴 Forks | [![GitHub forks](https://img.shields.io/github/forks/MohitVermaCoder/MohitVermaCoder?style=flat-square&color=70a5fd)](https://github.com/MohitVermaCoder?tab=repositories) |
+| 👥 Followers | [![GitHub followers](https://img.shields.io/github/followers/MohitVermaCoder?style=flat-square&color=70a5fd)](https://github.com/MohitVermaCoder?tab=followers) |
+| 📈 Profile Views | ![Profile views](https://komarev.com/ghpvc/?username=MohitVermaCoder&style=flat-square&color=70a5fd) |
 
 </div>
 
@@ -257,7 +163,12 @@
 
 **I'm always interested in collaborating on exciting projects!**
 
-<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://youtube.com/channel/UCIYwx90CqfKUQmFBUrFmIIg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a> <a href="https://x.com/Mohit_Verma7"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> <a href="medium.com/@techniquestudent"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a> <a href="mailto:verma.mohit093@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+<p>
+<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/MohitVermaCoder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 📫 **Reach out** — I'd love to hear from you!
 
