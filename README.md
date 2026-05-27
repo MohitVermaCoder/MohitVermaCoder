@@ -32,18 +32,18 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitVermaCoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitVermaCoder&layout=compact&theme=tokyonight&hide_border=true" width="320" alt="Top Languages"/>
 
 💼 **9+ years in backend development**
 
-🔭 Currently working on **[QRCodeGeneratorDemo](https://github.com/MohitVermaCoder/QRCodeGeneratorDemo)**
+🔭 Currently working on **[file-upload-service](https://github.com/MohitVermaCoder/file-upload-service)**
 
 🌱 Currently learning **System design, DevOps**
 
 🎯 **Passionate about** scalable architecture, microservices, and clean code
 
 📦 **Dynamic Stats:**
-  - Repositories: [![GitHub repos](https://img.shields.io/github/repos/MohitVermaCoder?style=flat&label=repos)](https://github.com/MohitVermaCoder?tab=repositories)
+  - Repositories: [![GitHub repos](https://img.shields.io/badge/repos-20-blue?style=flat)](https://github.com/MohitVermaCoder?tab=repositories)
   - Followers: [![GitHub followers](https://img.shields.io/github/followers/MohitVermaCoder?style=flat&label=followers)](https://github.com/MohitVermaCoder?tab=followers)
 
 <br clear="right"/>
@@ -135,9 +135,12 @@
 
 <div align="center">
 
-<a href="https://github.com/MohitVermaCoder/QRCodeGeneratorDemo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=QRCodeGeneratorDemo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd" alt="QRCodeGeneratorDemo"/></a>
-<a href="https://github.com/MohitVermaCoder/Springboot_Crud_H2_DB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=Springboot_Crud_H2_DB&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd" alt="Springboot_Crud_H2_DB"/></a>
+<a href="https://github.com/MohitVermaCoder/kafka-poc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=kafka-poc&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd" alt="kafka-poc"/></a>
+
+<a href="https://github.com/MohitVermaCoder/file-upload-service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=file-upload-service&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd" alt="file-upload-service"/></a>
+
 <a href="https://github.com/MohitVermaCoder/SpringBootProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=SpringBootProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd" alt="SpringBootProject"/></a>
+
 <a href="https://github.com/MohitVermaCoder/coding-questions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitVermaCoder&repo=coding-questions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd" alt="coding-questions"/></a>
 
 </div>
@@ -150,7 +153,7 @@
 
 | Metric | Badge |
 |:------:|:-----:|
-| 📦 Total Repositories | [![GitHub repos](https://img.shields.io/github/repos/MohitVermaCoder?style=flat-square&color=70a5fd)](https://github.com/MohitVermaCoder?tab=repositories) |
+| 📦 Total Repositories | [![GitHub repos](https://img.shields.io/badge/repos-20-blue?style=flat)](https://github.com/MohitVermaCoder?tab=repositories) |
 | 🍴 Forks | [![GitHub forks](https://img.shields.io/github/forks/MohitVermaCoder/MohitVermaCoder?style=flat-square&color=70a5fd)](https://github.com/MohitVermaCoder?tab=repositories) |
 | 👥 Followers | [![GitHub followers](https://img.shields.io/github/followers/MohitVermaCoder?style=flat-square&color=70a5fd)](https://github.com/MohitVermaCoder?tab=followers) |
 | 📈 Profile Views | ![Profile views](https://komarev.com/ghpvc/?username=MohitVermaCoder&style=flat-square&color=70a5fd) |
